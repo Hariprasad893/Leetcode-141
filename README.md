@@ -1,5 +1,5 @@
 # Leetcode-141
-This repository contains the Python solution for the following problem statement:
+This repository contains the Python solution (using the two pointer approach) for the following problem statement:
 
 Given head, the head of a linked list, determine if the linked list has a cycle in it.
 
